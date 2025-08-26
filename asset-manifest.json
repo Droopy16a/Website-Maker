@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Website-Maker/static/css/main.1b4a53c8.css",
+    "main.js": "/Website-Maker/static/js/main.ed4cc122.js",
+    "index.html": "/Website-Maker/index.html",
+    "main.1b4a53c8.css.map": "/Website-Maker/static/css/main.1b4a53c8.css.map",
+    "main.ed4cc122.js.map": "/Website-Maker/static/js/main.ed4cc122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b4a53c8.css",
+    "static/js/main.ed4cc122.js"
+  ]
+}
